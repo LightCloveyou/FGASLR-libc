@@ -1,0 +1,23 @@
+# Local builds and Python caches
+/build/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Debugger state and crash dumps
+.gdb_history
+core
+core.*
+
+# Local editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Ad-hoc local executables (put new outputs in build/)
+/app
+/app1
+/pwn

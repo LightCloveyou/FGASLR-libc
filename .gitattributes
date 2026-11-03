@@ -1,0 +1,13 @@
+* text=auto
+*.py text eol=lf
+*.c text eol=lf
+*.h text eol=lf
+*.inc text eol=lf
+*.S text eol=lf
+*.ld text eol=lf
+*.md text eol=lf
+*.patch text eol=lf
+*.so binary
+*.so.* binary
+*.a binary
+*.tar.gz binary
